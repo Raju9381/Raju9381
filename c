@@ -1,12 +1,43 @@
-   December 2021      
-Su Mo Tu We Th Fr Sa  
-          1  2  3  4  
- 5 _ _6  7  8  9 10 11  
-12 13 14 15 16 17 18  
-19 20 21 22 23 24 25  
-26 27 28 29 30 31     
-                      
-No command 'data' found, did you mean:
- Command 'date' from package 'coreutils' (main)
- Command 'dat' from package 'liballegro4-dev' (universe)
-data: command not found
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+libuuid:x:100:101::/var/lib/libuuid:
+syslog:x:101:104::/home/syslog:/bin/false
+messagebus:x:102:106::/var/run/dbus:/bin/false
+usbmux:x:103:46:usbmux daemon,,,:/home/usbmux:/bin/false
+dnsmasq:x:104:65534:dnsmasq,,,:/var/lib/misc:/bin/false
+avahi-autoipd:x:105:113:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/bin/false
+kernoops:x:106:65534:Kernel Oops Tracking Daemon,,,:/:/bin/false
+rtkit:x:107:114:RealtimeKit,,,:/proc:/bin/false
+saned:x:108:115::/home/saned:/bin/false
+whoopsie:x:109:116::/nonexistent:/bin/false
+speech-dispatcher:x:110:29:Speech Dispatcher,,,:/var/run/speech-dispatcher:/bin/sh
+avahi:x:111:117:Avahi mDNS daemon,,,:/var/run/avahi-daemon:/bin/false
+lightdm:x:112:118:Light Display Manager:/var/lib/lightdm:/bin/false
+colord:x:113:121:colord colour management daemon,,,:/var/lib/colord:/bin/false
+hplip:x:114:7:HPLIP system user,,,:/var/run/hplip:/bin/false
+pulse:x:115:122:PulseAudio daemon,,,:/var/run/pulse:/bin/false
+gopalkrishna:x:1000:1000:gopalkrishna,,,:/home/gopalkrishna:/bin/bash
+sshd:x:116:65534::/var/run/sshd:/usr/sbin/nologin
+cluster:x:1001:1001:cluster,,,:/home/cluster:/bin/bash
+guest-wsg66d:x:117:125:Guest,,,:/tmp/guest-wsg66d:/bin/bash
+guest-CmIqV8:x:118:126:Guest,,,:/tmp/guest-CmIqV8:/bin/bash
+guest-jQAo5T:x:119:127:Guest,,,:/tmp/guest-jQAo5T:/bin/bash
+guest-3vqCze:x:120:128:Guest,,,:/tmp/guest-3vqCze:/bin/bash
+guest-bSZ2gE:x:121:129:Guest,,,:/tmp/guest-bSZ2gE:/bin/bash
+guest-oxhGVw:x:122:130:Guest,,,:/tmp/guest-oxhGVw:/bin/bash
