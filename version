@@ -1,5 +1,0 @@
-1.cat /etc/os-release
-2.hostnamectl
-3.Ubuntu 18.04 LTS \n \l
-4.lsb_release -a
-5.lsb_release -d
